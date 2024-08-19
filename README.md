@@ -1,4 +1,4 @@
-<strong>Nova, is a basic program to proccess images from a <a href = "https://www.space.com/15396-variable-stars.html" target = "_self">Variable star</a> and draw a linear-graph based on light magnitude of the star🌟.	</strong><br>
+<strong>Nova, is a basic program to proccess images from a <a href = "https://www.space.com/15396-variable-stars.html" target = "_self">Variable star</a> and draw a linear-graph based on light magnitude of the star🌟.	</strong><br><br>
 at the begining, as the template impage, you should crop an image and spcify a zone around the variable star. this zone most have at least 5 another stars.
 then you give all images addresses to program. and here the miracle will begins!
 
